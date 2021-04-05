@@ -1,3 +1,12 @@
+
+
+############################################################
+#####                   CYBERXPLOIT                    #####
+##### PROJECT NAME: COMPUTER GUESSING GAME             #####
+##### PROJECT ID: CYBX009                            #####
+#####                                                  #####
+############################################################
+
 import random
 
 def computer_guess(x):
